@@ -12,3 +12,41 @@
 }
 
 /* Stili Main */
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    color: cadetblue;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.button-box {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    display: none;
+}
